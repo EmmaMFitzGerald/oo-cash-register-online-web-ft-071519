@@ -14,6 +14,5 @@ class CashRegister
     end
     self.last_transaction = amount * quantity
     end
-   end
 
 end
